@@ -82,7 +82,7 @@ Execute the program using runserver command.
         <td bgcolor="yellow">WEB</td>
         <td bgcolor="pink">free</td>
     </tr>
-
+</table>
     <table align="center" border="1">
         <tr>
             <th>S.NO</th>
